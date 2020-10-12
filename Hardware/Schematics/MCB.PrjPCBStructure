@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=MCB_TOP.SchDoc
+Record=SheetSymbol|SourceDocument=MCB_TOP.SchDoc|Designator=CPU|SchDesignator=CPU|FileName=CPU.SchDoc|SymbolType=Normal|RawFileName=CPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCB_TOP.SchDoc|Designator=Fonte|SchDesignator=Fonte|FileName=Fonte.SchDoc|SymbolType=Normal|RawFileName=Fonte.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCB_TOP.SchDoc|Designator=Ponte_H|SchDesignator=Ponte_H|FileName=Ponte_H.SchDoc|SymbolType=Normal|RawFileName=Ponte_H.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
